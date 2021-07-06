@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_tulip.mk
+    $(LOCAL_DIR)/fluid_tulip.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_tulip-user \
-    evolution_tulip-userdebug \
-    evolution_tulip-eng
+    fluid_tulip-user \
+    fluid_tulip-userdebug \
+    fluid_tulip-eng
